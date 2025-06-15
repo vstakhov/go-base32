@@ -1,3 +1,3 @@
-module github.com/vstakhov/base32
+module github.com/vstakhov/go-base32
 
-go 1.19 
+go 1.19
